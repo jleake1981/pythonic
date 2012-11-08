@@ -1,0 +1,4 @@
+pythonic
+========
+
+Adventures in python
